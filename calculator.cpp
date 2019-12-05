@@ -2,9 +2,8 @@
 using namespace std;
 int main()
 {
-    int x,y;
-    cin>>x;
-    cin>>y;
+    int x=20,y=10;
+    
     cout<<"x:"<<x<<"y:"<<y<<"\n";
     cout<<"Addition:"<<x+y<<"\n";
     cout<<"Subtraction:"<<x-y<<"\n";
